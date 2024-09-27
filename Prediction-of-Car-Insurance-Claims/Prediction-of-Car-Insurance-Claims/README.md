@@ -7,7 +7,7 @@ This project aimed to provide more information to the car insurance market and m
 
 Team Members: 
 
-Sreenadh Pulabala,Rahul Gaini,Ravi Putti
+Sreenadh Pulabala,Rahul Gaini
 
 ## Requirements
 * Python 2.7/3.7
